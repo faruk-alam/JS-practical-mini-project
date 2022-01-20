@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+}
+.button{
+    margin: 15px;
+    background-color: rgb(177, 172, 172);
+    color: #fff;
+    padding: 5px 26px;
+    border: none;
+    font-weight: bolder;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.animation{
+    box-shadow: 10px 10px 10px rgb(168, 70, 70);
+}
